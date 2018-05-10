@@ -1,0 +1,14 @@
+sf_QuadEncoderCarion_wrapper.o: \
+ C:/Users/maeuser/Desktop/THLlib/sf_QuadEncoderCarion_wrapper.c \
+ C:/Users/maeuser/Desktop/SYSTEM~1/OL_Step_Resp_Arduino_ert_rtw/rtwtypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.13/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.13/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.13/hardware/arduino/avr/variants/mega/pins_arduino.h
+
+C:/Users/maeuser/Desktop/SYSTEM~1/OL_Step_Resp_Arduino_ert_rtw/rtwtypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.13/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.13/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.13/hardware/arduino/avr/variants/mega/pins_arduino.h:
